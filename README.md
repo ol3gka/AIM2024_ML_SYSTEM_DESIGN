@@ -44,5 +44,5 @@ docker compose:
 **http://localhost:8080/**
 <!-- #region -->
 <p align="center">
-<img  src="pictures/airflow.png">
+<img  src="pictures/airflow2.png">
 </p>

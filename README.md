@@ -26,3 +26,21 @@ docker compose:
 1) Clone repo
 2) `echo -e "AIRFLOW_UID=$(ID -u)" > .env`
 3) docker-compose up --build -d
+
+**http://127.0.0.1:9001/**
+<!-- #region -->
+<p align="center">
+<img  src="pictures/minio.png">
+</p>
+
+**http://localhost:9080/** (workers - http://localhost:8081/ http://localhost:8082/ http://localhost:8083/)
+<!-- #region -->
+<p align="center">
+<img  src="pictures/spark">
+</p>
+
+**http://localhost:8080/**
+<!-- #region -->
+<p align="center">
+<img  src="pictures/airflow">
+</p>
